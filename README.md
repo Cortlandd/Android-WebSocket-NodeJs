@@ -10,3 +10,7 @@ Android-WebSocket-NodeJs/NodeJs-tchat-/Views/measure.html.twig
 Android : 
 Android-WebSocket-NodeJs/AndroidNodeJs/app/src/main/java/com/chakibtemal/fr/android_nodejs/MainActivity.java
             Line 20 : mSocket = IO.socket("http://192.168.1.14:9999");
+            
+
+In navigator link your server in :
+http://192.168.1.14:9999/measure
